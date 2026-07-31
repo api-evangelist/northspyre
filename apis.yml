@@ -1,8 +1,28 @@
 aid: northspyre
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/northspyre.png
 name: Northspyre
-description: 'Northspyre is a company surfaced as a portfolio company of crv and added to the API Evangelist
-  network as a stub for enrichment. Sector: real-estate. This profile is a lead awaiting the enrichment
-  pipeline.'
+description: >-
+  Northspyre is a real estate development management platform that gives owners,
+  developers, and project teams an end-to-end system for managing deals, projects,
+  and portfolios across the full development lifecycle — acquisition, early planning,
+  pre-development, construction, and stabilization. It unifies siloed project data
+  and automates routine work with tools for financial modeling and deal pipeline
+  management, budget and cost control, vendor procurement and management, forecasting,
+  portfolio analytics, and investor and lender reporting. Northspyre is delivered as a
+  hosted SaaS application and is SOC 2 Type II certified. It exposes no public developer
+  API surface at this time; this profile captures the company's public identity,
+  compliance posture, and domain security.
 url: https://raw.githubusercontent.com/api-evangelist/northspyre/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,10 +32,17 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
 - Real Estate
+- Real Estate Development
+- Project Management
+- Construction
+- Cost Management
+- Portfolio Analytics
+- Proptech
+- SaaS
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +52,26 @@ maintainers:
 common:
 - type: Website
   url: https://www.northspyre.com/
+- type: Pricing
+  url: https://www.northspyre.com/pricing
+- type: PrivacyPolicy
+  url: https://www.northspyre.com/privacypolicy
+- type: Blog
+  url: https://www.northspyre.com/blog
+- type: Login
+  url: https://login.northspyre.com/
+- type: Support
+  url: https://app.northspyre.com/
+- type: Compliance
+  url: https://www.northspyre.com/soc-2-northspyre-compliance
+- type: TrustCenter
+  url: security/northspyre-trust-center.yml
+- type: DomainSecurity
+  url: security/northspyre-domain-security.yml
+- type: LLMsTxt
+  url: llms/northspyre-llms.txt
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 3
+  pass: local-v1

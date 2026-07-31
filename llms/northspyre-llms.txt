@@ -1,0 +1,72 @@
+# Northspyre | Real Estate Development Management Software
+
+A real estate development management software for the entire project lifecycle. Transforming how teams work and make decisions.
+
+## Overview
+- Northspyre Platform Overview: A comprehensive platform overview highlighting Northspyre's key capabilities, feature sets, and how it supports the entire development lifecycle.
+
+## Products
+- Complex Capital Management: Tools and features that assist in managing complex capital structures and financing for real estate projects.
+- Portfolio Analytics Plus: Advanced analytics tools for portfolio management, providing insights into performance and investment strategies.
+- Integrations: Information on how Northspyre integrates with other software and tools to streamline workflows and data management.
+
+### Key Features
+
+- Project Planning: Features that facilitate effective project planning, including timelines, resource allocation, and task management.
+- Vendor Procurement: Solutions for managing vendor relationships and procurement processes efficiently.
+- Investor & Lender Reporting: Tools designed for generating reports for investors and lenders, ensuring transparency and communication.
+- Project Delivery and Schedule: Features that help manage project delivery timelines and schedules to ensure timely completion.
+- Vendor Management: Tools for overseeing vendor performance and managing contracts.
+- Budget Management: Solutions for creating and maintaining project budgets, tracking expenses, and ensuring financial accountability.
+- Forecasting: Advanced forecasting tools that help predict project outcomes and financial performance.
+
+## User Roles
+
+- Executive: Features tailored for executives overseeing multiple projects and strategic decision-making.
+- Development Leader: Tools designed for development leaders to manage teams and project execution effectively.
+- Project Manager: Resources and tools specifically for project managers to streamline their workflows and enhance project delivery.
+- Accountant: Features that assist accountants in managing financial aspects of real estate projects.
+
+## Asset Classes
+
+- All Asset Classes: Information on how Northspyre supports various asset classes in real estate development.
+
+## Pricing and Support
+
+- Pricing: Details on the pricing structure for Northspyre's services and products.
+
+## Conversion and Access
+- Book a Demo: Schedule a demonstration of the Northspyre platform to see its features in action.
+
+## Resources
+
+- Blog: Insights and articles on trends and best practices in real estate development.
+- Podcast: A series of discussions and interviews related to real estate and project management.
+- Local Development Digest: A publication focusing on local real estate development news and insights.
+- Resource Center: A hub for various resources, including guides, articles, and tools for real estate professionals.
+- Training Webinars: Educational webinars designed to help users maximize their use of Northspyre.
+
+## Events and Community
+
+- Events: Information on upcoming events hosted or sponsored by Northspyre.
+- Facebook: Northspyre's official Facebook page for updates and community engagement.
+- X: Northspyre's presence on X for real-time updates and interactions.
+- LinkedIn: Connect with Northspyre on LinkedIn for professional networking and insights.
+- YouTube: Northspyre's YouTube channel featuring tutorials, webinars, and promotional content.
+
+## Company Information
+
+- About Us: Background information about Northspyre, its mission, and its team.
+- Customer Success: Insights into how Northspyre ensures customer satisfaction and success.
+- Security & Compliance: Information on the security measures and compliance standards upheld by Northspyre.
+- News & Press: Latest news and press releases related to Northspyre.
+- Careers: Current job openings and career opportunities at Northspyre.
+
+## Additional Resources
+
+- Real Estate Development Software Comparison: A comparison of the top real estate development software options for real estate leaders.
+- How to Excel as a Real Estate Project Manager: Key Responsibilities and Best Practices: A resource outlining best practices for project managers in real estate.
+- Privacy Policy: Northspyre's privacy policy detailing data handling and user privacy.
+- Sitemap: A structured overview of the Northspyre website for easy navigation.
+- About - Northspyre Tech: Insights into the technology and innovation driving Northspyre.
+- Author: Northspyre: Acknowledgment of content authored by Northspyre.

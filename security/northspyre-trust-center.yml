@@ -1,0 +1,12 @@
+generated: '2026-07-20'
+method: searched
+probe: true
+source: https://www.northspyre.com/soc-2-northspyre-compliance
+url: https://www.northspyre.com/soc-2-northspyre-compliance
+certifications:
+- SOC 2
+evidence:
+- source: https://www.northspyre.com/soc-2-northspyre-compliance
+  keywords:
+  - soc 2
+  - soc2
